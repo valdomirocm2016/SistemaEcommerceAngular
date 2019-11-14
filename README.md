@@ -30,4 +30,4 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 Para testar o projeto deve se usar o servidor disponivel no repositorio https://github.com/valdomirocm2016/curso-springboot-2-java-11 
-deve apenas acrecentar a anotação @CrossOrigin(origins = "http://localhost:4200") nos arquivos resources/AuthResource e resources/UserResource presentes no servidor.
+deve apenas acrecentar a anotação @CrossOrigin(origins = "http://localhost:4200") nos arquivos resources/AuthResource e resources/UserResource do servidor.
